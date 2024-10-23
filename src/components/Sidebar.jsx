@@ -60,11 +60,11 @@ const Sidebar = ({recipeQueue, handleRemove, preparedRecipe, calculateTimeAndCal
       </tr>
         ))
       }
-      <tr>
+      <tr className="border-t-2">
         <th></th>
         <td></td>
-        <td>Total Time = {totalTime}</td>
-        <td>Total Calories = {totalCalories}</td>
+        <td>Total Time : {totalTime} min</td>
+        <td>Total Calories : {totalCalories} calories</td>
       </tr>
     </tbody>
     </table>

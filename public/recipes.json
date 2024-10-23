@@ -12,8 +12,8 @@
         "2 cloves garlic",
         "1 tbsp olive oil"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories"
+      "preparing_time": 30,
+      "calories": 320
     },
     {
       "recipe_id": "002",
@@ -28,8 +28,8 @@
         "2 tbsp olive oil",
         "1 clove garlic"
       ],
-      "preparing_time": "20 min",
-      "calories": "450 calories"
+      "preparing_time": 20,
+      "calories": 450
     },
     {
       "recipe_id": "003",
@@ -44,8 +44,8 @@
         "2 tbsp soy sauce",
         "1 tsp sesame oil"
       ],
-      "preparing_time": "15 min",
-      "calories": "250 calories"
+      "preparing_time": 15,
+      "calories": 250
     },
     {
       "recipe_id": "004",
@@ -60,8 +60,8 @@
         "50 g sour cream",
         "1 avocado"
       ],
-      "preparing_time": "25 min",
-      "calories": "380 calories"
+      "preparing_time": 25,
+      "calories": 380
     },
     {
       "recipe_id": "005",
@@ -76,8 +76,8 @@
         "1 tbsp olive oil",
         "1 tsp parsley"
       ],
-      "preparing_time": "15 min",
-      "calories": "290 calories"
+      "preparing_time": 15,
+      "calories": 290
     },
     {
       "recipe_id": "006",
@@ -92,7 +92,7 @@
         "1 tbsp tahini",
         "1 tbsp lemon juice"
       ],
-      "preparing_time": "20 min",
-      "calories": "310 calories"
+      "preparing_time": 20,
+      "calories": 310
     }
   ]

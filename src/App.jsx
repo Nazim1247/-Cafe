@@ -13,6 +13,7 @@ const App = () => {
   const [totalCalories, setTotalCalories] = useState(0);
 
   const calculateTimeAndCalories = (time, calories) => {
+    console.log(time, calories)
     setTotalTime(totalTime + time)
     setTotalCalories(totalCalories + calories)
   }
