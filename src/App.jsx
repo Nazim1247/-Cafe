@@ -52,7 +52,7 @@ const App = () => {
         <Sidebar
          totalCalories={totalCalories}
          totalTime={totalTime}
-         calculateTimeAndCalories={calculateTimeAndCalories}     preparedRecipe={preparedRecipe}
+         calculateTimeAndCalories={calculateTimeAndCalories}preparedRecipe={preparedRecipe}
          handleRemove={handleRemove}
          recipeQueue={recipeQueue}>
        </Sidebar>
