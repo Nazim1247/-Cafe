@@ -2,9 +2,9 @@
 
 const Header = () => {
     return (
-        <div>
-            <div className="navbar py-8 w-11/12 mx-auto">
-  <div className="navbar-start">
+      <div>
+    <div className="navbar flex flex-col md:flex-row text-center space-y-2 py-8 md:w-11/12 mx-auto">
+  <div className="navbar-start w-full mx-auto">
     <h3 className="text-xl font-bold">Recipe Calories</h3>
   </div>
   <div className="navbar-center">
@@ -15,7 +15,7 @@ const Header = () => {
         <p>Search</p>
     </div>
   </div>
-  <div className="navbar-end">
+  <div className="navbar-end w-full">
     <div className="flex justify-center items-center space-x-3">
     <label className="px-2 py-1 border-2 rounded-full flex items-center gap-2">
   <svg
